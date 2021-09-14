@@ -13,6 +13,7 @@ int main()
 	cout << "z2=" << z2 << endl;
 	cout << "z2=" << z2 << endl;
 	cout << "z2=" << z2 << endl;
+	cout << "z2=" << z2 << endl;
 	cin.get();
 	return 0;
 }
